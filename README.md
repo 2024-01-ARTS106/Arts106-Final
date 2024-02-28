@@ -31,7 +31,7 @@
 * Right click on asset
 * select the option to select dependencies
 * with all dependencies selected, right click and export package
-** you will be asked to save the package to your hard drive - note the location
+  * you will be asked to save the package to your hard drive - note the location
 * go to the Final repository
 * Import package
 
